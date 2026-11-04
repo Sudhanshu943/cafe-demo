@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-05",
+  "license_url": "https://unsplash.com/license",
+  "usage": "Illustrative demo photography only; review item rights before a real business launch.",
+  "photos": [
+    {
+      "id": "interior",
+      "source": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 173709,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "latte",
+      "source": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 420054,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "coffee",
+      "source": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 158527,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "iced",
+      "source": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 117171,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "espresso",
+      "source": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 141945,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "pastry",
+      "source": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 266134,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "bread",
+      "source": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 469092,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "brunch",
+      "source": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 322197,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "barista",
+      "source": "https://images.unsplash.com/photo-1511537190424-bbbab87ac5eb?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 300551,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "table",
+      "source": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 180404,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    },
+    {
+      "id": "matcha",
+      "source": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=1400&q=82",
+      "bytes": 126582,
+      "status": "downloaded",
+      "license": "Unsplash license; stock illustration, not actual venue",
+      "creator": "See linked source item; attribution identity not independently verified"
+    }
+  ]
+}
