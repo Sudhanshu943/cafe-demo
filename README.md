@@ -39,3 +39,4 @@ Gallery selection, remembered design, explicit gallery return, browser history n
 Morrow is fictional. Prices, menu and opening hours are samples; there is no live venue, checkout or booking backend. The visit action explains this instead of providing invented contact details. Stock photography is illustrative. Asset source URLs are recorded in `assets/provenance.json`; font and Three.js licenses are retained alongside the files. The coffee-cup illustration is original CSS artwork, and the interactive cup uses original procedural geometry.
 
 See [verification results](docs/verification-summary.md) for completed checks and remaining production-readiness limits. Original planning documents remain available in [the planning index](docs/README.md).
+
