@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Warm Editorial",
+    "expanded": "true",
+    "kitchenItems": 3
+  },
+  {
+    "name": "Japanese Minimal",
+    "expanded": "true",
+    "kitchenItems": 3
+  },
+  {
+    "name": "Botanical Calm",
+    "expanded": "true",
+    "kitchenItems": 3
+  },
+  {
+    "name": "Playful Retro",
+    "expanded": "true",
+    "kitchenItems": 3
+  },
+  {
+    "name": "Dark Cinematic",
+    "expanded": "true",
+    "kitchenItems": 3
+  },
+  {
+    "name": "Heritage Classic",
+    "expanded": "true",
+    "kitchenItems": 3
+  },
+  {
+    "name": "Bakery & Brunch",
+    "expanded": "true",
+    "kitchenItems": 3
+  },
+  {
+    "name": "Industrial Coffee Lab",
+    "expanded": "true",
+    "kitchenItems": 3
+  }
+]

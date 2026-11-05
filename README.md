@@ -2,6 +2,8 @@
 
 One design gallery and eight independently composed responsive café homepages. Built with native JavaScript modules and scoped CSS; no framework installation is required. Three.js is vendored and loaded only after activating the cinematic design's 3D cup.
 
+The latest local visual revision replaces shared page templates with eight separate compositions and menu renderers. Use **All eight** or **Larger previews** in the gallery to compare them. See [the redesign report](docs/redesign-report.md) for changes and verification.
+
 ## Run locally
 
 Requires Node.js. From this folder:
